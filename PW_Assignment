@@ -25,6 +25,8 @@ print(my_dict.popitem())  # Output: ('c', 3)
 print(my_dict)  # Output: {'a': 1, 'b': 2}
 clear Method Purpose: The clear method removes all items from the dictionary, leaving it empty.
 
+https://colab.research.google.com/drive/1hjgOanZBKDzd2bZ6wRMluW1u3AfxvCNn#scrollTo=-lPY-epTr3U9&line=1&uniqifier=1
+(If you get any issue with reading it visit google colab using above link)
 my_dict.clear()
 print(my_dict)  # Output: {}
 • What do you mean by FrozenSet? Explain it with suitable examples.
